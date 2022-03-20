@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-#### The science of data is what keep me awake 👨‍🔬👩‍🔬
+#### The science of data keep me awake 👨‍🔬👩‍🔬
 
